@@ -1,3 +1,4 @@
-# Data Structers And Algorithms
+# Data Structures and Algorithms
 
-📓 My homework solutions for the Patika.dev course. 
+📓 Within this repository, you will find exercises that I completed to improve my algorithmic skills. Additionally, I have included the solutions to homework assignments from two courses that I took at my university.
+
